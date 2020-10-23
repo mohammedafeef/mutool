@@ -3,8 +3,8 @@ Mutool is an all in one tool installer for the termux users with detailed tutori
 
 step to install mutool 
 
------termux------
-pkg install python git
-git clone <clone link of the repo>
-cd mutool
-python mutool.py
+-----termux------<br>
+pkg install python git<br>
+git clone <clone link of the repo> <br>
+cd mutool<br>
+python mutool.py<br>
